@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 //Display your full name
-  cout<<"Name:" <<"Mohamed Dahir Ali" <<endl;
+  cout<<"Name:" <<"Mohamed Abdirashiid Said" <<endl;
 
 
 
